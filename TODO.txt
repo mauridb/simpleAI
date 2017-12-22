@@ -1,0 +1,2 @@
+- dialog between ChatA and ChatB inside a port 
+- ChatC listen closed dialog
