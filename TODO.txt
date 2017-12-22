@@ -1,2 +1,4 @@
-- dialog between ChatA and ChatB inside a port 
+# simple chatbot classes
+- system dialog between ChatA and ChatB inside a port 
 - ChatC listen closed dialog
+
